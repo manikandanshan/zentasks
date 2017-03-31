@@ -1,0 +1,13 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/opt/play-2.2.6/samples/java/zentasks/target/scala-2.10/resource_managed/main/public/stylesheets/login.css,/opt/play-2.2.6/samples/java/zentasks/target/scala-2.10/classes/public/stylesheets/login.css)[0m
+[0m[[0mdebug[0m] [0m	(/opt/play-2.2.6/samples/java/zentasks/target/scala-2.10/resource_managed/main/public/stylesheets/login.min.css,/opt/play-2.2.6/samples/java/zentasks/target/scala-2.10/classes/public/stylesheets/login.min.css)[0m
+[0m[[0mdebug[0m] [0m	(/opt/play-2.2.6/samples/java/zentasks/target/scala-2.10/resource_managed/main/public/stylesheets/main.min.css,/opt/play-2.2.6/samples/java/zentasks/target/scala-2.10/classes/public/stylesheets/main.min.css)[0m
+[0m[[0mdebug[0m] [0m	(/opt/play-2.2.6/samples/java/zentasks/target/scala-2.10/resource_managed/main/public/stylesheets/main.css,/opt/play-2.2.6/samples/java/zentasks/target/scala-2.10/classes/public/stylesheets/main.css)[0m
+[0m[[0mdebug[0m] [0m	(/opt/play-2.2.6/samples/java/zentasks/target/scala-2.10/resource_managed/main/public/javascripts/main.js,/opt/play-2.2.6/samples/java/zentasks/target/scala-2.10/classes/public/javascripts/main.js)[0m
+[0m[[0mdebug[0m] [0m	(/opt/play-2.2.6/samples/java/zentasks/target/scala-2.10/resource_managed/main/public/javascripts/main.min.js,/opt/play-2.2.6/samples/java/zentasks/target/scala-2.10/classes/public/javascripts/main.min.js)[0m
+[0m[[0mdebug[0m] [0m	(/opt/play-2.2.6/samples/java/zentasks/conf/evolutions,/opt/play-2.2.6/samples/java/zentasks/target/scala-2.10/classes/evolutions)[0m
+[0m[[0mdebug[0m] [0m	(/opt/play-2.2.6/samples/java/zentasks/conf/initial-data.yml,/opt/play-2.2.6/samples/java/zentasks/target/scala-2.10/classes/initial-data.yml)[0m
+[0m[[0mdebug[0m] [0m	(/opt/play-2.2.6/samples/java/zentasks/conf/application.conf,/opt/play-2.2.6/samples/java/zentasks/target/scala-2.10/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/opt/play-2.2.6/samples/java/zentasks/conf/routes,/opt/play-2.2.6/samples/java/zentasks/target/scala-2.10/classes/routes)[0m
+[0m[[0mdebug[0m] [0m	(/opt/play-2.2.6/samples/java/zentasks/conf/evolutions/default,/opt/play-2.2.6/samples/java/zentasks/target/scala-2.10/classes/evolutions/default)[0m
+[0m[[0mdebug[0m] [0m	(/opt/play-2.2.6/samples/java/zentasks/conf/evolutions/default/1.sql,/opt/play-2.2.6/samples/java/zentasks/target/scala-2.10/classes/evolutions/default/1.sql)[0m
